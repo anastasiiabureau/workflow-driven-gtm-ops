@@ -38,8 +38,6 @@ Without this automation, the registration and the sale would need to be entered 
 
 ### Returning Client Sale
 
-[![Existing Client Sale](../../assets/interfaces/Ops_HUB_existing_client_sale.mp4)](../../assets/interfaces/Ops_HUB_existing_client_sale.mp4)
-
 *Plan renewal or upgrade for an existing client — no form, no automation fires. Admin processes the sale manually from the Existing Client Sale page.*
 
 → [Full workflow — Check-in & Operations Hub](../../interfaces/checkin-operations-hub-README.md)

@@ -46,8 +46,6 @@ Used at the front desk when an existing client renews a pass or buys a new subsc
 
 Admin selects the client from the existing client list, selects the subscription plan, and submits. A `Transaction` record is created, linked to the client and the plan. The Subscription Status Sync automation fires — `Current Balance` recalculates and the client's plan is immediately active.
 
-[![Existing Client Sale Demo](../assets/interfaces/Ops_HUB_existing_client_sale.mp4)](../assets/interfaces/Ops_HUB_existing_client_sale.mp4)
-
 ```mermaid
 flowchart LR
     A[👤 Opens form] --> B[Selects existing client]
