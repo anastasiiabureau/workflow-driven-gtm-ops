@@ -40,11 +40,11 @@
 
 | Section | What it covers | Folder |
 |---|---|---|
-| **🏗️ Architecture** | System design, HLD diagram, data flows, database schema — 11 tables, ER diagram, automation map | [architecture/](./architecture/) |
-| **🖥️ Interfaces** | 5 role-scoped workspaces: CRM & lead pipeline (Sales) · client registration & scheduling (Check-in Ops) · HR & contracts · campaigns & events (Marketing) · website content (Web Ops) — pages, demos, automation links, governance | [interfaces/](./interfaces/) |
-| **⚙️ Automations** | 18 automated workflows — 14 native Airtable + 4 Make integration pipelines | [automations/](./automations/) |
-| **📊 Analytics** | ETL pipeline · 6 Looker Studio dashboards: campaign ROI, lead funnel, client lifecycle & LTV, session fill rates, revenue trends, churn analysis | [business-intelligence-analytics/](./business-intelligence-analytics/) |
-| **🌐 Frontend** | Custom multilingual website — Eleventy 3 + Tailwind CSS 4 + Cloudflare Pages + Make content sync | [frontend/](./frontend/) |
+| **🏗️ Architecture** | System design, HLD diagram, data flows, database schema — 11 tables, ER diagram, automation map | [→ README](./architecture/hld.md) |
+| **🖥️ Interfaces** | 5 role-scoped workspaces: CRM & lead pipeline (Sales) · client registration & scheduling (Check-in Ops) · HR & contracts · campaigns & events (Marketing) · website content (Web Ops) — pages, demos, automation links, governance | [→ README](./interfaces/interfaces-README.md) |
+| **⚙️ Automations** | 18 automated workflows — 14 native Airtable + 4 Make integration pipelines | [→ README](./automations/automations-README.md) |
+| **📊 Analytics** | ETL pipeline · 6 Looker Studio dashboards: campaign ROI, lead funnel, client lifecycle & LTV, session fill rates, revenue trends, churn analysis | [→ README](./business-intelligence-analytics/business-intelligence-analytics-README.md) |
+| **🌐 Frontend** | Custom multilingual website — Eleventy 3 + Tailwind CSS 4 + Cloudflare Pages + Make content sync | [→ README](./frontend/frontend-README.md) |
 
 ---
 
