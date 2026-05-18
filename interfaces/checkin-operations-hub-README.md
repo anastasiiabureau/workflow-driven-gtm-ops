@@ -176,8 +176,6 @@ The daily session operations dashboard. Admin opens this page each morning to re
 
 Below the KPIs: a live session grid — clickable records where admin updates status, changes room, assigns a substitute, adds notes, or logs a cancellation reason directly.
 
-[![Schedule & Session Management Demo](../assets/interfaces/OPS_Hub_Sessions_managment.mp4)](../assets/interfaces/OPS_Hub_Sessions_managment.mp4)
-
 ```mermaid
 flowchart LR
     A[Session scheduled] --> B{Teacher confirms?}
@@ -200,8 +198,6 @@ flowchart LR
 **Entry point:** Monthly Studio Planner
 
 A combined calendar view of all sessions and events for the current month — the single source of truth for what's happening in the studio. Operations and marketing share this page: admins can edit both sessions and events; the marketing team sees both but can only edit events.
-
-[![Monthly Studio Planner Demo](../assets/interfaces/OPS_HUB_planner.mp4)](../assets/interfaces/OPS_HUB_planner.mp4)
 
 **Access split in the planner:**
 

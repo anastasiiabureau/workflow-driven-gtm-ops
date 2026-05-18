@@ -24,9 +24,9 @@ This module covers all people-operations workflows in one place:
 
 ### Staff Directory
 
-[![Staff Directory Demo](../../assets/interfaces/HR_Staff_Directory.mp4)](../../assets/interfaces/HR_Staff_Directory.mp4)
+[![Staff Directory](../../assets/interfaces/hr_stuff_directory.gif)](../../assets/interfaces/hr_stuff_directory.gif)
 
-*Create new hire records, manage teacher specializations, set approval status — triggers Teacher → Class assignment automatically.*
+*New hire records, teacher specialization management, approval status.*
 
 → [Full workflow — Studio HR Hub](../../interfaces/studio-hr-hub-README.md#staff-directory)
 

@@ -78,10 +78,6 @@ Instagram gallery curation — review imported posts, assign a category, toggle 
 
 Campaign management workspace. Register campaigns, generate UTM-tracked links, manage the event lifecycle, and track partner relationships. Inbound leads are attributed to campaigns automatically.
 
-[![Marketing Campaigns Manager](../assets/interfaces/Marketing_Ops_Manager.mp4)](../assets/interfaces/Marketing_Ops_Manager.mp4)
-
-*Campaign lifecycle manager — track all campaigns from Concept to Completed, monitor lead attribution and conversion.*
-
 [![Campaign Attribution — Leads Linked to Campaign](../assets/interfaces/acquisition_campaigne.png)](../assets/interfaces/acquisition_campaigne.png)
 
 *Leads linked to a campaign — source attribution visible directly in the campaign record.*
@@ -114,8 +110,6 @@ Front desk and scheduling workspace. New client registration, subscription sales
 
 *New client registration — client record and transaction created simultaneously on form submit.*
 
-[![Monthly Studio Planner](../assets/interfaces/OPS_HUB_planner.mp4)](../assets/interfaces/OPS_HUB_planner.mp4)
-
 *Monthly studio planner — shared with marketing for events; recurring sessions generate automatically.*
 
 → [Check-in & Operations Hub — full documentation](./checkin-operations-hub-README.md)
@@ -126,7 +120,7 @@ Front desk and scheduling workspace. New client registration, subscription sales
 
 HR and contracts workspace. Staff directory, CDD renewal pipeline, teacher–class assignment, onboarding, and absence tracking.
 
-[![Staff Directory](../assets/interfaces/HR_Staff_Directory.mp4)](../assets/interfaces/HR_Staff_Directory.mp4)
+[![Staff Directory](../assets/interfaces/hr_stuff_directory.gif)](../assets/interfaces/hr_stuff_directory.gif)
 
 *Staff directory — new hire records, teacher specialization management, approval status.*
 

@@ -45,7 +45,7 @@ Contract renewals no longer fall through the gaps — a 4-automation state machi
 | 5 | Teacher Approval to Class Workflow | New teacher approved + Specialization filled |
 | 6 | Update Teacher Sync Class | `Specialization` field updated |
 
-[![Staff Directory](../../assets/interfaces/HR_Staff_Directory.mp4)](../../assets/interfaces/HR_Staff_Directory.mp4)
+[![Staff Directory](../../assets/interfaces/hr_stuff_directory.gif)](../../assets/interfaces/hr_stuff_directory.gif)
 
 *Staff directory — new hire records, teacher specialization management, approval status.*
 
@@ -90,13 +90,6 @@ Recurring classes generate themselves — when a session is completed with the R
 | 12 | Recurring Sessions Generator | `Session_Status = Completed` + `Recurring = ✅` |
 | 13 | Sync Event to Studio Calendar | Campaign `In Progress` + `Campaigne_Type = Event/Workshop` |
 
-[![Monthly Studio Planner](../../assets/interfaces/OPS_HUB_planner.mp4)](../../assets/interfaces/OPS_HUB_planner.mp4)
-
-*Monthly studio planner — admin marks a session Completed, the next week's session appears instantly.*
-
-[![Marketing Campaigns Manager](../../assets/interfaces/Marketing_Ops_Manager.mp4)](../../assets/interfaces/Marketing_Ops_Manager.mp4)
-
-*Event Lifecycle Manager — campaign moved to In Progress, session entry created in the studio calendar automatically.*
 
 → [Full deep dive & demo](./operations-scheduling-README.md)
 

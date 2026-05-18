@@ -22,8 +22,6 @@ From a business perspective, this module solves two recurring scheduling problem
 
 ### Recurring Sessions Generator — Monthly Studio Planner
 
-[![Monthly Studio Planner](../../assets/interfaces/OPS_HUB_planner.mp4)](../../assets/interfaces/OPS_HUB_planner.mp4)
-
 *Admin marks a session Completed with Recurring = ✅ — the next week's session appears immediately with all details carried over.*
 
 → [Full workflow — Check-in & Operations Hub](../../interfaces/checkin-operations-hub-README.md)
@@ -31,8 +29,6 @@ From a business perspective, this module solves two recurring scheduling problem
 ---
 
 ### Sync Event to Studio Calendar — Event Lifecycle Manager
-
-[![Event Lifecycle Manager](../../assets/interfaces/Marketing_Ops_Manager.mp4)](../../assets/interfaces/Marketing_Ops_Manager.mp4)
 
 *Marketing moves a campaign to In Progress — a session entry is created in the studio calendar automatically, visible to operations alongside regular classes.*
 

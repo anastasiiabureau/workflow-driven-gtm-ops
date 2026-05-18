@@ -133,8 +133,6 @@ The central campaign tracking workspace. All campaigns — active, planned, comp
 
 > **Analytics downstream:** Campaign lifecycle data feeds the **📣 Campaign Performance** dashboard (top vs. flop campaigns, lead type distribution) and the **🎉 Events & Attendance** dashboard (event revenue, ROI, attendance vs. no-show rates). → [Business Intelligence & Analytics](../business-intelligence-analytics/business-intelligence-analytics-README.md)
 
-[![Marketing Campaigns Manager Demo](../assets/interfaces/Marketing_Ops_Manager.mp4)](../assets/interfaces/Marketing_Ops_Manager.mp4)
-
 ---
 
 <a id="partner-form"></a>
@@ -168,8 +166,6 @@ The monthly studio calendar is not a page in this interface. It is part of the [
 | **Marketing Team** | View only | View + Edit |
 
 Marketing can view the full studio schedule and edit events directly in the planner. Regular class sessions remain under Admin control.
-
-[![Monthly Studio Planner Demo](../assets/interfaces/OPS_HUB_planner.mp4)](../assets/interfaces/OPS_HUB_planner.mp4)
 
 ---
 

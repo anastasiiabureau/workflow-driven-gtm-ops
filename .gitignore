@@ -1,5 +1,9 @@
-# MP4 files — do not render on GitHub, excluded to stay within file size limits
-*.mp4
+# MP4 files exceeding GitHub's 100MB limit
+assets/interfaces/OPS_HUB_planner.mp4
+assets/interfaces/CRM_lead_management_board.mp4
+assets/interfaces/HR_Staff_Directory.mp4
+assets/interfaces/Marketing_Ops_Manager.mp4
+assets/interfaces/OPS_Hub_Sessions_managment.mp4
 
 # GIFs exceeding GitHub's 100MB limit
 assets/interfaces/website_page1.gif

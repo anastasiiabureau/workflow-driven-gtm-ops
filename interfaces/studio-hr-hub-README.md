@@ -53,7 +53,9 @@ The Staff Directory is the central record for every person in the system. It's w
 
 > **Note:** Teacher specialization changes trigger class roster sync automatically — no manual roster updates needed.
 
-[![Staff Directory Demo](../assets/interfaces/HR_Staff_Directory.mp4)](../assets/interfaces/HR_Staff_Directory.mp4)
+[![Staff Directory](../assets/interfaces/hr_stuff_directory.gif)](../assets/interfaces/hr_stuff_directory.gif)
+
+*Staff directory — employee and teacher profiles, specializations, approval status, contract tracking.*
 
 ---
 
