@@ -133,6 +133,10 @@ The central campaign tracking workspace. All campaigns — active, planned, comp
 
 > **Analytics downstream:** Campaign lifecycle data feeds the **📣 Campaign Performance** dashboard (top vs. flop campaigns, lead type distribution) and the **🎉 Events & Attendance** dashboard (event revenue, ROI, attendance vs. no-show rates). → [Business Intelligence & Analytics](../business-intelligence-analytics/business-intelligence-analytics-README.md)
 
+[![Marketing Campaigns Manager](../assets/interfaces/ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/ezgif.com-video-to-gif-converter.gif)
+
+*Campaign lifecycle manager — track campaigns from Concept to Completed, monitor lead attribution and conversion.*
+
 ---
 
 <a id="partner-form"></a>

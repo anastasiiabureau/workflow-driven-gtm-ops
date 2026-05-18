@@ -32,6 +32,8 @@ From a business perspective, this module solves two recurring scheduling problem
 
 ### Sync Event to Studio Calendar — Event Lifecycle Manager
 
+[![Event Lifecycle Manager](../../assets/interfaces/ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/ezgif.com-video-to-gif-converter.gif)
+
 *Marketing moves a campaign to In Progress — a session entry is created in the studio calendar automatically, visible to operations alongside regular classes.*
 
 → [Full workflow — Marketing Ops Hub](../../interfaces/marketing-ops-hub-README.md)

@@ -78,6 +78,10 @@ Instagram gallery curation — review imported posts, assign a category, toggle 
 
 Campaign management workspace. Register campaigns, generate UTM-tracked links, manage the event lifecycle, and track partner relationships. Inbound leads are attributed to campaigns automatically.
 
+[![Marketing Campaigns Manager](../assets/interfaces/ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/ezgif.com-video-to-gif-converter.gif)
+
+*Campaign lifecycle manager — track all campaigns from Concept to Completed, monitor lead attribution and conversion.*
+
 [![Campaign Attribution — Leads Linked to Campaign](../assets/interfaces/acquisition_campaigne.png)](../assets/interfaces/acquisition_campaigne.png)
 
 *Leads linked to a campaign — source attribution visible directly in the campaign record.*
