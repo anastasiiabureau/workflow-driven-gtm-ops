@@ -105,7 +105,7 @@ Used at the start of each class. Admin selects the client and the session, then 
 
 > **Session filter:** The form shows only today's sessions — admin cannot accidentally check a client into a past or future date.
 
-[![Class Check-in Demo](../assets/interfaces/OPS_HUB_Class_Check_In.mp4)](../assets/interfaces/OPS_HUB_Class_Check_In.mp4)
+[![Class Check-in Demo](../assets/interfaces/OPS_HUB_Class_Check_In-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/OPS_HUB_Class_Check_In-ezgif.com-video-to-gif-converter.gif)
 
 ```mermaid
 flowchart LR
@@ -133,7 +133,7 @@ Used when an existing client signs up for a workshop or special event. For clien
 
 Admin selects the client and the event, then submits. An event attendance record is created, linked to the client and the `Marketing_Campaigns` event record. If the event has a price, a `Transaction` is created automatically.
 
-[![Event Check-in Demo](../assets/interfaces/OPS_Hub_Event_Checkin.mp4)](../assets/interfaces/OPS_Hub_Event_Checkin.mp4)
+[![Event Check-in Demo](../assets/interfaces/OPS_Hub_Event_Checkin-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/OPS_Hub_Event_Checkin-ezgif.com-video-to-gif-converter.gif)
 
 ```mermaid
 flowchart LR
@@ -198,6 +198,8 @@ flowchart LR
 **Entry point:** Monthly Studio Planner
 
 A combined calendar view of all sessions and events for the current month — the single source of truth for what's happening in the studio. Operations and marketing share this page: admins can edit both sessions and events; the marketing team sees both but can only edit events.
+
+[![Monthly Studio Planner](../assets/interfaces/studio_planner.gif)](../assets/interfaces/studio_planner.gif)
 
 **Access split in the planner:**
 

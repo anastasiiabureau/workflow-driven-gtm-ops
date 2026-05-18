@@ -167,6 +167,8 @@ The monthly studio calendar is not a page in this interface. It is part of the [
 
 Marketing can view the full studio schedule and edit events directly in the planner. Regular class sessions remain under Admin control.
 
+[![Monthly Studio Planner](../assets/interfaces/studio_planner.gif)](../assets/interfaces/studio_planner.gif)
+
 ---
 
 <a id="stakeholders"></a>

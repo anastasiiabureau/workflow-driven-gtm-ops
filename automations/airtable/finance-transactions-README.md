@@ -24,11 +24,11 @@ Without this automation, the registration and the sale would need to be entered 
 
 [![New Client Sale — Workflow](../../assets/interfaces/7.OPS_Hub_New_Client_Sale.png)](../../assets/interfaces/7.OPS_Hub_New_Client_Sale.png)
 
-[![Class Check-in](../../assets/interfaces/OPS_HUB_Class_Check_In.mp4)](../../assets/interfaces/OPS_HUB_Class_Check_In.mp4)
+[![Class Check-in](../../assets/interfaces/OPS_HUB_Class_Check_In-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/OPS_HUB_Class_Check_In-ezgif.com-video-to-gif-converter.gif)
 
 *Admin submits the New Client Registration form — client record and transaction are created simultaneously. Admin proceeds to class check-in to log attendance.*
 
-[![Event Check-in](../../assets/interfaces/OPS_Hub_Event_Checkin.mp4)](../../assets/interfaces/OPS_Hub_Event_Checkin.mp4)
+[![Event Check-in](../../assets/interfaces/OPS_Hub_Event_Checkin-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/OPS_Hub_Event_Checkin-ezgif.com-video-to-gif-converter.gif)
 
 *If the client attended an event — admin links them to the event attendance list directly from Check-in & Operations Hub.*
 

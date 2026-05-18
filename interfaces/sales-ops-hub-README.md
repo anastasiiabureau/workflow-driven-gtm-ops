@@ -95,7 +95,7 @@ Sales Managers use this view to prioritize re-engagement — reaching out to ⚠
 | 💀 Churn | Last visit > 90 days ago |
 | 🎯 Sales Qualified Lead | No visits yet — acquired lead, pending first booking |
 
-[![Client Portfolio Demo](../assets/interfaces/CRM_Clients_Protfolio.mp4)](../assets/interfaces/CRM_Clients_Protfolio.mp4)
+[![Client Portfolio Demo](../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)
 
 > **Analytics downstream:** Client portfolio data feeds two dashboards — **🔄 Customer Lifecycle & Retention** (segment distribution, churn risk, LTV by segment, retention patterns) and **🎯 Lead Funnel & Customer Value** (lifetime value by acquisition source, client spend trends). → [Business Intelligence & Analytics](../business-intelligence-analytics/business-intelligence-analytics-README.md)
 

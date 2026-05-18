@@ -22,6 +22,8 @@ From a business perspective, this module solves two recurring scheduling problem
 
 ### Recurring Sessions Generator — Monthly Studio Planner
 
+[![Monthly Studio Planner](../../assets/interfaces/studio_planner.gif)](../../assets/interfaces/studio_planner.gif)
+
 *Admin marks a session Completed with Recurring = ✅ — the next week's session appears immediately with all details carried over.*
 
 → [Full workflow — Check-in & Operations Hub](../../interfaces/checkin-operations-hub-README.md)

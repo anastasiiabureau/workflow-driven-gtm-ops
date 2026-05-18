@@ -94,7 +94,7 @@ CRM and lead qualification workspace. Kanban board for managing the full lead fu
 
 *Lead qualification Kanban — MQL → SQL → Positive. Notes and follow-up dates logged automatically.*
 
-[![Client Portfolio & Health Insights](../assets/interfaces/CRM_Clients_Protfolio.mp4)](../assets/interfaces/CRM_Clients_Protfolio.mp4)
+[![Client Portfolio & Health Insights](../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)
 
 *Client portfolio — VIP, Regular, At-Risk, Churned segments calculated automatically by formula fields.*
 
@@ -110,6 +110,8 @@ Front desk and scheduling workspace. New client registration, subscription sales
 
 *New client registration — client record and transaction created simultaneously on form submit.*
 
+[![Monthly Studio Planner](../assets/interfaces/studio_planner.gif)](../assets/interfaces/studio_planner.gif)
+
 *Monthly studio planner — shared with marketing for events; recurring sessions generate automatically.*
 
 → [Check-in & Operations Hub — full documentation](./checkin-operations-hub-README.md)
@@ -124,7 +126,7 @@ HR and contracts workspace. Staff directory, CDD renewal pipeline, teacher–cla
 
 *Staff directory — new hire records, teacher specialization management, approval status.*
 
-[![Contract Renewal Management](../assets/interfaces/HR_Contract_Renewal%20.mp4)](../assets/interfaces/HR_Contract_Renewal%20.mp4)
+[![Contract Renewal Management](../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)
 
 *Contract renewal pipeline — HR writes a note, the state machine handles every stage transition.*
 

@@ -75,7 +75,7 @@ The hire then moves through the New Staff Onboarding pipeline: **Offer Sent → 
 
 → [Automation deep dive — Teacher Approval & Sync](../automations/airtable/hr-staff-management-README.md)
 
-[![Staff Onboarding Demo](../assets/interfaces/HR_stuff_onboarding.mp4)](../assets/interfaces/HR_stuff_onboarding.mp4)
+[![Staff Onboarding Demo](../assets/interfaces/HR_stuff_onboarding-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/HR_stuff_onboarding-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
@@ -101,7 +101,7 @@ The cycle starts without any HR action. When a fixed-term employee's end date is
 
 → [Automation deep dive — Contract Renewal Pipeline](../automations/airtable/hr-staff-management-README.md)
 
-[![Contract Renewal Demo](../assets/interfaces/HR_Contract_Renewal%20.mp4)](../assets/interfaces/HR_Contract_Renewal%20.mp4)
+[![Contract Renewal Demo](../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)](../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)
 
 ---
 

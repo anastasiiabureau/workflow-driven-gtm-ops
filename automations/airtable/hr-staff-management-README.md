@@ -34,7 +34,7 @@ This module covers all people-operations workflows in one place:
 
 ### Staff Onboarding
 
-[![Staff Onboarding Demo](../../assets/interfaces/HR_stuff_onboarding.mp4)](../../assets/interfaces/HR_stuff_onboarding.mp4)
+[![Staff Onboarding Demo](../../assets/interfaces/HR_stuff_onboarding-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/HR_stuff_onboarding-ezgif.com-video-to-gif-converter.gif)
 
 *New hire moves through the onboarding pipeline: Offer Sent → Contract Signed → System Setup → First Session.*
 
@@ -44,7 +44,7 @@ This module covers all people-operations workflows in one place:
 
 ### Contract Renewal Management
 
-[![Contract Renewal Demo](../../assets/interfaces/HR_Contract_Renewal%20.mp4)](../../assets/interfaces/HR_Contract_Renewal%20.mp4)
+[![Contract Renewal Demo](../../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)
 
 *HR writes a renewal note — the state machine handles every stage transition from In Discussion to Done or Termination.*
 

@@ -49,7 +49,7 @@ Contract renewals no longer fall through the gaps — a 4-automation state machi
 
 *Staff directory — new hire records, teacher specialization management, approval status.*
 
-[![Contract Renewal Management](../../assets/interfaces/HR_Contract_Renewal%20.mp4)](../../assets/interfaces/HR_Contract_Renewal%20.mp4)
+[![Contract Renewal Management](../../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/HR_Contract_Renewal-ezgif.com-video-to-gif-converter.gif)
 
 *Contract renewal pipeline — HR writes a note, the state machine handles every stage transition.*
 
@@ -73,7 +73,7 @@ Leads from Instagram, website, events, and referrals all land in one table. When
 
 *Lead qualification Kanban — MQL → SQL → Positive. Notes and follow-up dates logged automatically.*
 
-[![Client Portfolio & Health Insights](../../assets/interfaces/CRM_Clients_Protfolio.mp4)](../../assets/interfaces/CRM_Clients_Protfolio.mp4)
+[![Client Portfolio & Health Insights](../../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)
 
 *Client portfolio — VIP, Regular, At-Risk, Churned segments calculated automatically by formula fields.*
 
@@ -90,6 +90,9 @@ Recurring classes generate themselves — when a session is completed with the R
 | 12 | Recurring Sessions Generator | `Session_Status = Completed` + `Recurring = ✅` |
 | 13 | Sync Event to Studio Calendar | Campaign `In Progress` + `Campaigne_Type = Event/Workshop` |
 
+[![Monthly Studio Planner](../../assets/interfaces/studio_planner.gif)](../../assets/interfaces/studio_planner.gif)
+
+*Monthly studio planner — admin marks a session Completed, the next week's session appears instantly.*
 
 → [Full deep dive & demo](./operations-scheduling-README.md)
 

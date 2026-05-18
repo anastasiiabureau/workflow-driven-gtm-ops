@@ -72,7 +72,7 @@ Every sales interaction is preserved automatically. When a rep fills in Notes an
 
 ### Client Portfolio & Health Insights
 
-[![Client Portfolio](../../assets/interfaces/CRM_Clients_Protfolio.mp4)](../../assets/interfaces/CRM_Clients_Protfolio.mp4)
+[![Client Portfolio](../../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)](../../assets/interfaces/CRM_Clients_Protfolio-ezgif.com-video-to-gif-converter.gif)
 
 *Client segmentation view — VIP, Regular, At-Risk, Churned. Subscription health, visit frequency, and LTV across the full client base. Segments are calculated automatically by formula fields — no automation required.*
 
