@@ -1,0 +1,6 @@
+# MP4 files — do not render on GitHub, excluded to stay within file size limits
+*.mp4
+
+# GIFs exceeding GitHub's 100MB limit
+assets/interfaces/website_page1.gif
+assets/interfaces/instagram_gallery1.gif
